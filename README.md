@@ -1,16 +1,15 @@
-## Hi there 👋
+### boas vindas ao meu perfil 👋
 
-<!--
-**Jubis0714/jubis0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome Julia Rodrigues
 
-Here are some ideas to get you started:
+-Estou estudando na [ Alura ]( https://www.alura.com.br)
+- estou me desenvolvendo na linguagem JavaScript
+- - Utilizo esse espa;o para a minha organização e compartilhamento dos meus projetos desenvolvidos
+ 
+  - ### você entrar em contato comigo :
+ 
+  - juliarinacio2006@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- @ju_rinacio
+
+![ ](https://media1.tenor.com/m/1o-jyLmBl6MAAAAC/greys-anatomy-wink.gif)
